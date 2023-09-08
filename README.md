@@ -10,6 +10,7 @@ PC, HC, MMHC: Three algorithms simulated in the dissertation
 evaluate: evaluate the performance of skeleton and DAG learning. Here, for skeleton, we write TDR, number of missing edges, number of extra edges. For structure, we write Precision, Recall, F1, TPR, FPR, SHD, SHD rate, sd(SHD).
 
 csv files
+
 result, discrete: results of three algorithms with different parameter settings when variables are discrete.
 
 result, continuous: results of three algorithms with different parameter settings when variables are continuous.
